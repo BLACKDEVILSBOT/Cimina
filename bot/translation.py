@@ -6,11 +6,11 @@ class Translation(object):
     
     START_TEXT = """<b>Hey {}!!
 
-ഞാൻ 🛡️<a href="https://t.me/Movie_hut_group">Mᴏᴠɪᴇs Hᴜʙ</a>🛡️ എന്ന ഗ്രൂപ്പിൽ മൂവീസ് കൊടുക്കുന്ന ബോട്ട് ആണ് 
+ഞാൻ 🛡️<a href="https://t.me/Movie_hut_group">Mᴏᴠɪᴇ HUT GROUP</a>🛡️ എന്ന ഗ്രൂപ്പിൽ മൂവീസ് കൊടുക്കുന്ന ബോട്ട് ആണ് 
  
 നോക്കണ്ടാ എന്നെ മറ്റു ഗ്രൂപ്പിൽ ഒന്നും ഉപയോഗിക്കാൻ കഴിയുകയില്ല
 
-Mᴀɪɴᴛᴀɪɴᴇᴅ Bʏ <a href="https://t.me/darkz_angel">Dᴀʀᴋ Aɴɢᴇʟ</a>
+Mᴀɪɴᴛᴀɪɴᴇᴅ Bʏ <a href="https://t.me/THOMAS_MOVIE_HUT">BLACK DEVIL</a>
 </b>"""    
     
     HELP_TEXT = """
@@ -19,7 +19,7 @@ Mᴀɪɴᴛᴀɪɴᴇᴅ Bʏ <a href="https://t.me/darkz_angel">Dᴀʀᴋ Aɴɢ�
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Movies Hut bot</code>
     
-<b>➥ Creator</b> : <b><i><a href="https://t.me/darkz_angel">Dᴀʀᴋ Aɴɢᴇʟ</a></i></b>
+<b>➥ Creator</b> : <b><i><a href="https://t.me/THOMAS_MOVIE_HUT">BLACK DEVIL</a></i></b>
 
 <b>➥ Language</b> : <code>Python3</code>
 
