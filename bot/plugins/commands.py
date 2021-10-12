@@ -35,7 +35,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '⚠️ 𝙅𝙊𝙄𝙉', url="https://t.me/Movie_hut_group"
+                                    '⚠️ 𝙅𝙊𝙄𝙉', url="https://t.me/CinemaLokhm"
                                 )
                         ]
                     ]
@@ -48,9 +48,9 @@ async def start(bot, update):
 
     buttons = [[
         InlineKeyboardButton('🕵️‍♂️ 𝘾𝙍𝙀𝘼𝙏𝙊𝙍', url='https://t.me/THOMAS_MOVIE_HUT'),
-        InlineKeyboardButton('⚠️ 𝙂𝙍𝙊𝙐𝙋', url ='https://t.me/Movie_hut_group')
+        InlineKeyboardButton('⚠️ 𝙂𝙍𝙊𝙐𝙋', url ='https://t.me/CinemaLokhm')
     ],[
-        InlineKeyboardButton('🎖️ 𝙅𝙊𝙄𝙉 𝙊𝙐𝙍 𝙈𝘼𝙄𝙉 𝘾𝙃𝘼𝙉𝙉𝙀𝙇 🎖️', url='https://t.me/chathurmukhamcom')
+        InlineKeyboardButton('🎖️ 𝙅𝙊𝙄𝙉 𝙊𝙐𝙍 𝙈𝘼𝙄𝙉 𝙂𝙍𝙊𝙐𝙋 🎖️', url='https://t.me/CinemaLokhm')
     ],[
         InlineKeyboardButton('💡 𝙃𝙀𝙇𝙋', callback_data="help"),
         InlineKeyboardButton('🔐 𝘾𝙇𝙊𝙎𝙀', callback_data="close")
@@ -60,7 +60,7 @@ async def start(bot, update):
     
     await bot.send_photo(
         chat_id=update.chat.id,
-        photo="https://telegra.ph/file/4a9a99f6df7123b47c1c3.jpg",
+        photo="https://i.ibb.co/GQNPm7F/Photo-1492135826.jpg",
         caption=Translation.START_TEXT.format(
                 update.from_user.first_name),
         reply_markup=reply_markup,
